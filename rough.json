@@ -1,0 +1,29 @@
+{
+  "data": {
+    "reference_list": {
+      "values": [
+        { "value": "Action" },
+        { "value": "Anime" },
+        { "value": "Award-Winning" },
+        { "value": "Children & Family" },
+        { "value": "Classic" },
+        { "value": "Comedies" },
+        { "value": "Crime" },
+        { "value": "Cult" },
+        { "value": "Documentaries" },
+        { "value": "Dramas" },
+        { "value": "Fantasy" },
+        { "value": "French" },
+        { "value": "Horror" },
+        { "value": "Independent" },
+        { "value": "International" },
+        { "value": "Music & Musicals" },
+        { "value": "Reality TV" },
+        { "value": "Romance" },
+        { "value": "Sci-Fi" },
+        { "value": "TV Show" },
+        { "value": "Thriller" }
+      ]
+    }
+  }
+}
